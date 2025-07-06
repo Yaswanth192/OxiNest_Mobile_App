@@ -1,0 +1,2445 @@
+[
+  {
+    "name": "Sahilara, Maihar, India",
+    "lat": 24.2613009,
+    "lon": 80.7231783,
+    "aqi": 171,
+    "intensity": 0.342,
+    "timestamp": "2025-07-06T09:00:00+05:30",
+    "pollutants": {
+      "pm25": 171,
+      "pm10": 17,
+      "no2": 3.8,
+      "so2": 4.8,
+      "co": 8
+    }
+  },
+  {
+    "name": "Rajendra Nagar, Bareilly, India",
+    "lat": 28.38910936,
+    "lon": 79.42963708,
+    "aqi": 74,
+    "intensity": 0.148,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 74,
+      "pm10": 46,
+      "o3": 0.5,
+      "no2": 3.4,
+      "so2": 17.6,
+      "co": 6.8
+    }
+  },
+  {
+    "name": "Police Commissionerate, Jaipur, India",
+    "lat": 26.9164092,
+    "lon": 75.7994901,
+    "aqi": 114,
+    "intensity": 0.228,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 114,
+      "pm10": 58,
+      "o3": 5.4,
+      "no2": 34.3,
+      "so2": 3.6,
+      "co": 18.5
+    }
+  },
+  {
+    "name": "Bandra Kurla Complex, Mumbai, India",
+    "lat": 19.053536,
+    "lon": 72.84643,
+    "aqi": 76,
+    "intensity": 0.152,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 76,
+      "pm10": 55,
+      "o3": 5.5,
+      "no2": 3,
+      "so2": 2.7,
+      "co": 0.4
+    }
+  },
+  {
+    "name": "New Malakpet, Hyderabad, India",
+    "lat": 17.37206,
+    "lon": 78.50864,
+    "aqi": 79,
+    "intensity": 0.158,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 79,
+      "pm10": 55,
+      "o3": 6.8,
+      "no2": 4.7,
+      "so2": 4.4,
+      "co": 2.4
+    }
+  },
+  {
+    "name": "Town Hall, Munger, India",
+    "lat": 25.376776,
+    "lon": 86.471523,
+    "aqi": 78,
+    "intensity": 0.156,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 78,
+      "pm10": 53,
+      "o3": 1.5,
+      "no2": 1.6,
+      "so2": 7.5,
+      "co": 4.9
+    }
+  },
+  {
+    "name": "Chalai Bazaar, Ramanathapuram, India",
+    "lat": 9.36399,
+    "lon": 78.831977,
+    "aqi": 88,
+    "intensity": 0.176,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 88,
+      "pm10": 52,
+      "o3": 1.3,
+      "no2": 6.1,
+      "so2": 7.6,
+      "co": 5.1
+    }
+  },
+  {
+    "name": "Surkhet, Nepal",
+    "lat": 28.678541,
+    "lon": 81.472938,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:23:43.294Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Doon University, Dehradun, India",
+    "lat": 30.269444,
+    "lon": 78.044167,
+    "aqi": 5,
+    "intensity": 0.01,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 7,
+      "pm10": 3,
+      "o3": 2,
+      "no2": 0.1,
+      "so2": 0.8,
+      "co": 5.3
+    }
+  },
+  {
+    "name": "Civil Line, Jalandhar, India",
+    "lat": 31.321907,
+    "lon": 75.578914,
+    "aqi": 60,
+    "intensity": 0.12,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 60,
+      "pm10": 34,
+      "o3": 14,
+      "no2": 11.7,
+      "so2": 5.3,
+      "co": 7.3
+    }
+  },
+  {
+    "name": "Mendonsa Colony, Dindigul, India",
+    "lat": 10.358535,
+    "lon": 77.984321,
+    "aqi": 64,
+    "intensity": 0.128,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 64,
+      "pm10": 44,
+      "o3": 1.3,
+      "no2": 0.1,
+      "so2": 7.9,
+      "co": 0.8
+    }
+  },
+  {
+    "name": "Muradpur, Patna, India",
+    "lat": 25.619651,
+    "lon": 85.147382,
+    "aqi": 69,
+    "intensity": 0.138,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 69,
+      "pm10": 21,
+      "o3": 4.9,
+      "no2": 10.6,
+      "so2": 2.9,
+      "co": 9.9
+    }
+  },
+  {
+    "name": "Rara, Nepal",
+    "lat": 29.508301,
+    "lon": 82.093788,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:23:49.064Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Omex Eternity, Vrindavan, India",
+    "lat": 27.571409,
+    "lon": 77.655757,
+    "aqi": 191,
+    "intensity": 0.382,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 191,
+      "pm10": 97,
+      "o3": 6.2,
+      "no2": 4.5,
+      "so2": 3.1,
+      "co": 4.1
+    }
+  },
+  {
+    "name": "Moti Doongri, Alwar, India",
+    "lat": 27.554793,
+    "lon": 76.611536,
+    "aqi": 66,
+    "intensity": 0.132,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 66,
+      "pm10": 52,
+      "o3": 14.8,
+      "no2": 5.3,
+      "so2": 12.8,
+      "co": 14.7
+    }
+  },
+  {
+    "name": "Punjab Agricultural University, Ludhiana, India",
+    "lat": 30.9028,
+    "lon": 75.8086,
+    "aqi": 92,
+    "intensity": 0.184,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 92,
+      "pm10": 55,
+      "o3": 15.5,
+      "so2": 13.5,
+      "co": 7.4
+    }
+  },
+  {
+    "name": "Kurla, Mumbai, India",
+    "lat": 19.0863,
+    "lon": 72.8888,
+    "aqi": 100,
+    "intensity": 0.2,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 100,
+      "pm10": 59,
+      "o3": 11.5,
+      "no2": 1.2,
+      "so2": 14.9,
+      "co": 0.5
+    }
+  },
+  {
+    "name": "Thavakkara, Kannur, India",
+    "lat": 11.875,
+    "lon": 75.3732,
+    "aqi": 82,
+    "intensity": 0.164,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 82,
+      "pm10": 52,
+      "o3": 12.4,
+      "no2": 6.4,
+      "so2": 1.7,
+      "co": 3.3
+    }
+  },
+  {
+    "name": "Ramteerth Nagar, Belgaum, India",
+    "lat": 15.888653,
+    "lon": 74.541751,
+    "aqi": 47,
+    "intensity": 0.094,
+    "timestamp": "2025-07-06T06:00:00+05:30",
+    "pollutants": {
+      "pm25": 47,
+      "pm10": 23,
+      "o3": 7.9,
+      "no2": 7.7,
+      "so2": 7.4,
+      "co": 3.3
+    }
+  },
+  {
+    "name": "Gangapur Road, Nashik, India",
+    "lat": 20.0073285,
+    "lon": 73.7762427,
+    "aqi": 44,
+    "intensity": 0.088,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 44,
+      "pm10": 21,
+      "o3": 6.9,
+      "no2": 8.1,
+      "so2": 3.4,
+      "co": 2.2
+    }
+  },
+  {
+    "name": "Chhoti Gwaltoli, Indore, India",
+    "lat": 22.431,
+    "lon": 75.5213,
+    "aqi": 34,
+    "intensity": 0.068,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 34,
+      "pm10": 18,
+      "o3": 7.6,
+      "no2": 19.4,
+      "so2": 4.6,
+      "co": 2.5
+    }
+  },
+  {
+    "name": "Rabindra Bharati University, Kolkata, India",
+    "lat": 22.627847,
+    "lon": 88.380669,
+    "aqi": 78,
+    "intensity": 0.156,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 78,
+      "pm10": 41,
+      "o3": 12.6,
+      "no2": 17.3,
+      "so2": 4.2,
+      "co": 4.9
+    }
+  },
+  {
+    "name": "SDM Office_Khagra, Kishanganj, India",
+    "lat": 26.0881305,
+    "lon": 87.93840336,
+    "aqi": 82,
+    "intensity": 0.164,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 82,
+      "pm10": 45,
+      "o3": 7.1,
+      "no2": 4.3,
+      "so2": 3,
+      "co": 3
+    }
+  },
+  {
+    "name": "Collectorate, Jodhpur, India",
+    "lat": 26.268249,
+    "lon": 73.0193853,
+    "aqi": 172,
+    "intensity": 0.344,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 172,
+      "pm10": 77,
+      "o3": 4.7,
+      "no2": 6.1,
+      "so2": 4,
+      "co": 13.8
+    }
+  },
+  {
+    "name": "SIDCO Kurichi, Coimbatore, India",
+    "lat": 10.942451,
+    "lon": 76.978996,
+    "aqi": 33,
+    "intensity": 0.066,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 33,
+      "pm10": 17,
+      "o3": 10,
+      "no2": 2,
+      "so2": 8.3,
+      "co": 8.2
+    }
+  },
+  {
+    "name": "Sanjay Nagar, Ghaziabad, India",
+    "lat": 28.685382,
+    "lon": 77.453839,
+    "aqi": 138,
+    "intensity": 0.276,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 138,
+      "pm10": 72,
+      "o3": 6.4,
+      "no2": 12.6,
+      "so2": 5.6,
+      "co": 7.4
+    }
+  },
+  {
+    "name": "RIICO Ind. Area III, Bhiwadi, India",
+    "lat": 28.194909,
+    "lon": 76.862296,
+    "aqi": 102,
+    "intensity": 0.204,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 102,
+      "pm10": 66,
+      "o3": 8.8,
+      "no2": 8.3,
+      "so2": 2.1,
+      "co": 8.8
+    }
+  },
+  {
+    "name": "Pooth Khurd, Bawana, Delhi, Delhi, India",
+    "lat": 28.7757959,
+    "lon": 77.0462514,
+    "aqi": 99,
+    "intensity": 0.198,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 99,
+      "pm10": 51,
+      "o3": 2.5,
+      "no2": 1.5,
+      "so2": 1.2,
+      "co": 3
+    }
+  },
+  {
+    "name": "Plammoodu, Thiruvananthapuram, India",
+    "lat": 8.5149093,
+    "lon": 76.9435879,
+    "aqi": 9,
+    "intensity": 0.018,
+    "timestamp": "2025-07-06T09:00:00+05:30",
+    "pollutants": {
+      "pm25": 9,
+      "pm10": 3,
+      "o3": 5.5,
+      "no2": 6,
+      "so2": 7.6,
+      "co": 1.2
+    }
+  },
+  {
+    "name": "Collector Office, Yadgir, India",
+    "lat": 16.7602,
+    "lon": 77.1428,
+    "aqi": 46,
+    "intensity": 0.092,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 46,
+      "pm10": 28,
+      "o3": 7.5,
+      "no2": 13.5,
+      "so2": 9.5,
+      "co": 1.7
+    }
+  },
+  {
+    "name": "B R Ambedkar University, Lucknow, India",
+    "lat": 26.766433,
+    "lon": 80.927299,
+    "aqi": 79,
+    "intensity": 0.158,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 79,
+      "pm10": 38,
+      "o3": 12.4,
+      "no2": 4.3,
+      "so2": 30.4,
+      "co": 2.4
+    }
+  },
+  {
+    "name": "Rohta, Agra, India",
+    "lat": 27.106972,
+    "lon": 78.000111,
+    "aqi": 71,
+    "intensity": 0.142,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 71,
+      "pm10": 31,
+      "o3": 4.6,
+      "no2": 3.3,
+      "so2": 5.2,
+      "co": 4.2
+    }
+  },
+  {
+    "name": "Yamunapuram, Bulandshahr, India",
+    "lat": 28.406963,
+    "lon": 77.849831,
+    "aqi": 105,
+    "intensity": 0.21,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 105,
+      "pm10": 57,
+      "o3": 9.2,
+      "no2": 3.1,
+      "so2": 5.2,
+      "co": 3.2
+    }
+  },
+  {
+    "name": "Model Town, Patiala, India",
+    "lat": 30.349388,
+    "lon": 76.366642,
+    "aqi": 63,
+    "intensity": 0.126,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 63,
+      "pm10": 38,
+      "o3": 17,
+      "no2": 8.2,
+      "so2": 3.3,
+      "co": 9.4
+    }
+  },
+  {
+    "name": "Knowledge Park - V, Greater Noida, India",
+    "lat": 28.557054,
+    "lon": 77.453663,
+    "aqi": 115,
+    "intensity": 0.23,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 115,
+      "pm10": 81,
+      "o3": 6.1,
+      "no2": 5.6,
+      "so2": 7.2,
+      "co": 8.2
+    }
+  },
+  {
+    "name": "Industrial Area, Hajipur, India",
+    "lat": 25.697189,
+    "lon": 85.2459,
+    "aqi": 93,
+    "intensity": 0.186,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 93,
+      "pm10": 37,
+      "o3": 22.1,
+      "no2": 5,
+      "so2": 2,
+      "co": 3.1
+    }
+  },
+  {
+    "name": "Ngari Station, Ngari Sanai (阿里地区阿里监测站)",
+    "lat": 32.5,
+    "lon": 80.1161,
+    "aqi": 53,
+    "intensity": 0.106,
+    "timestamp": "2025-07-06T13:00:00+08:00",
+    "pollutants": {
+      "pm25": 53,
+      "pm10": 19,
+      "no2": 1.9,
+      "so2": 4.1,
+      "co": 1.9
+    }
+  },
+  {
+    "name": "Sector-D Industrial Area, Mandideep, India",
+    "lat": 23.10844,
+    "lon": 77.511428,
+    "aqi": 73,
+    "intensity": 0.146,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 73,
+      "pm10": 55,
+      "o3": 12.3,
+      "no2": 4.8,
+      "so2": 4.1,
+      "co": 7.9
+    }
+  },
+  {
+    "name": "National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",
+    "lat": 28.576909,
+    "lon": 77.075898,
+    "aqi": 91,
+    "intensity": 0.182,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 91,
+      "pm10": 59,
+      "o3": 7.6,
+      "no2": 9.9,
+      "so2": 7.2,
+      "co": 5.2
+    }
+  },
+  {
+    "name": "Hardev Nagar, Bathinda, India",
+    "lat": 30.233011,
+    "lon": 74.907758,
+    "aqi": 20,
+    "intensity": 0.04,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 20,
+      "pm10": 17,
+      "no2": 16.2,
+      "so2": 10.7,
+      "co": 5.9
+    }
+  },
+  {
+    "name": "Hebbal 1st Stage, Mysuru, India",
+    "lat": 12.21041,
+    "lon": 76.37376,
+    "aqi": 10,
+    "intensity": 0.02,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 29,
+      "pm10": 25,
+      "o3": 4.1,
+      "no2": 9.9,
+      "so2": 9.8,
+      "co": 1
+    }
+  },
+  {
+    "name": "Kandivali East, Mumbai, India",
+    "lat": 19.2058,
+    "lon": 72.8682,
+    "aqi": 91,
+    "intensity": 0.182,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 91,
+      "pm10": 60,
+      "no2": 4.7,
+      "so2": 13,
+      "co": 9
+    }
+  },
+  {
+    "name": "GIDC, Ankleshwar, India",
+    "lat": 21.613267,
+    "lon": 73.010555,
+    "aqi": 72,
+    "intensity": 0.144,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 72,
+      "pm10": 15,
+      "o3": 22.6,
+      "no2": 15.1,
+      "so2": 31.5,
+      "co": 2.8
+    }
+  },
+  {
+    "name": "GIDC, Nandesari, India",
+    "lat": 22.410802,
+    "lon": 73.097923,
+    "aqi": 172,
+    "intensity": 0.344,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 172,
+      "pm10": 120,
+      "so2": 2.3
+    }
+  },
+  {
+    "name": "New DM Office, Arrah, India",
+    "lat": 25.5626095,
+    "lon": 84.663264,
+    "aqi": 43,
+    "intensity": 0.086,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 43,
+      "pm10": 36,
+      "o3": 3.1,
+      "no2": 3.1,
+      "so2": 3.4,
+      "co": 3.4
+    }
+  },
+  {
+    "name": "IESD Banaras Hindu University, Varanasi, India",
+    "lat": 25.262326,
+    "lon": 82.995408,
+    "aqi": 59,
+    "intensity": 0.118,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 59,
+      "pm10": 48,
+      "o3": 1.2,
+      "no2": 0.8,
+      "so2": 31.3,
+      "co": 1
+    }
+  },
+  {
+    "name": "FTI Kidwai Nagar, Kanpur, India",
+    "lat": 26.428282,
+    "lon": 80.327067,
+    "aqi": 103,
+    "intensity": 0.206,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 103,
+      "pm10": 53,
+      "o3": 17,
+      "no2": 6.2,
+      "so2": 3.9,
+      "co": 5
+    }
+  },
+  {
+    "name": "Bhopal Chauraha, Dewas, India",
+    "lat": 22.9682591,
+    "lon": 76.064118,
+    "aqi": 72,
+    "intensity": 0.144,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 72,
+      "pm10": 30,
+      "o3": 8.9,
+      "no2": 11.9,
+      "so2": 15.8,
+      "co": 2.4
+    }
+  },
+  {
+    "name": "Kodungaiyur, Chennai, Chennai, India",
+    "lat": 13.1278,
+    "lon": 80.2642,
+    "aqi": 78,
+    "intensity": 0.156,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 78,
+      "pm10": 54,
+      "o3": 8.7,
+      "no2": 4.1,
+      "so2": 1.5,
+      "co": 5.9
+    }
+  },
+  {
+    "name": "Kalindi Kunj, Khurja, India",
+    "lat": 28.2348927,
+    "lon": 77.8683002,
+    "aqi": 208,
+    "intensity": 0.416,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 208,
+      "pm10": 56,
+      "o3": 2.6,
+      "no2": 1.2,
+      "so2": 5.9,
+      "co": 8.9
+    }
+  },
+  {
+    "name": "Secretariat, Amaravati, India",
+    "lat": 16.5150833,
+    "lon": 80.5181667,
+    "aqi": 49,
+    "intensity": 0.098,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 44,
+      "pm10": 49,
+      "o3": 7.7,
+      "no2": 13.1,
+      "so2": 4.3,
+      "co": 0.8
+    }
+  },
+  {
+    "name": "Kalyana Nagara, Chikkamagaluru, India",
+    "lat": 13.328028,
+    "lon": 75.797056,
+    "aqi": 55,
+    "intensity": 0.11,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 55,
+      "pm10": 25,
+      "o3": 4.8,
+      "no2": 7.4,
+      "so2": 1.3,
+      "co": 2.5
+    }
+  },
+  {
+    "name": "Sector-3B Avas Vikas Colony, Agra, India",
+    "lat": 27.19412,
+    "lon": 77.96237,
+    "aqi": 98,
+    "intensity": 0.196,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 98,
+      "pm10": 66,
+      "o3": 2.7,
+      "no2": 6.3,
+      "so2": 9.7,
+      "co": 3.9
+    }
+  },
+  {
+    "name": "Vibhab Nagar, Firozabad, India",
+    "lat": 27.1594,
+    "lon": 78.3953,
+    "aqi": 41,
+    "intensity": 0.082,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 41,
+      "pm10": 17,
+      "o3": 4.3,
+      "no2": 5.4,
+      "so2": 8.4,
+      "co": 2.3
+    }
+  },
+  {
+    "name": "Pallavpuram Phase 2, Meerut, India",
+    "lat": 29.06351,
+    "lon": 77.709723,
+    "aqi": 96,
+    "intensity": 0.192,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 96,
+      "pm10": 55,
+      "o3": 16.8,
+      "no2": 5.9,
+      "so2": 4,
+      "co": 5.7
+    }
+  },
+  {
+    "name": "Sardar Patel Inter College, Baghpat, India",
+    "lat": 28.964949,
+    "lon": 77.278761,
+    "aqi": 4,
+    "intensity": 0.008,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 68,
+      "pm10": 56,
+      "o3": 3.7,
+      "no2": 13.3,
+      "so2": 3.8,
+      "co": 2.4
+    }
+  },
+  {
+    "name": "Corporation Ground, Thrissur, India",
+    "lat": 10.5324,
+    "lon": 76.2159,
+    "aqi": 83,
+    "intensity": 0.166,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 83,
+      "pm10": 43,
+      "o3": 11.6,
+      "no2": 4.8,
+      "so2": 0.2,
+      "co": 4.5
+    }
+  },
+  {
+    "name": "Kukrail Picnic Spot-1, Lucknow, India",
+    "lat": 26.90723,
+    "lon": 80.98579,
+    "aqi": 58,
+    "intensity": 0.116,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 48,
+      "pm10": 58,
+      "o3": 17.7,
+      "no2": 8.5,
+      "so2": 7.4,
+      "co": 8.9
+    }
+  },
+  {
+    "name": "Mirchaibari, Katihar, India",
+    "lat": 25.560083,
+    "lon": 87.553265,
+    "aqi": 32,
+    "intensity": 0.064,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 23,
+      "pm10": 32,
+      "o3": 0.6,
+      "no2": 5.3,
+      "so2": 7.9,
+      "co": 1.5
+    }
+  },
+  {
+    "name": "Asansol Court Area, Asansol, India",
+    "lat": 23.685297,
+    "lon": 86.945968,
+    "aqi": 109,
+    "intensity": 0.218,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 109,
+      "pm10": 53,
+      "o3": 6,
+      "no2": 9.6,
+      "so2": 6,
+      "co": 7.4
+    }
+  },
+  {
+    "name": "Gandak Colony, Motihari, India",
+    "lat": 26.63086,
+    "lon": 84.90051,
+    "aqi": 24,
+    "intensity": 0.048,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 17,
+      "pm10": 24,
+      "o3": 0.6,
+      "no2": 2.8,
+      "so2": 1.2,
+      "co": 6.1
+    }
+  },
+  {
+    "name": "Hetauda, Nepal",
+    "lat": 27.4226747,
+    "lon": 85.0344161,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:24:45.744Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Dada Peer, Sasaram, India",
+    "lat": 24.952822,
+    "lon": 84.002396,
+    "aqi": 44,
+    "intensity": 0.088,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 44,
+      "pm10": 19,
+      "o3": 6.9,
+      "no2": 0.9,
+      "so2": 1.7,
+      "co": 9.4
+    }
+  },
+  {
+    "name": "Shivaji Nagar, Jhansi, India",
+    "lat": 25.4547,
+    "lon": 78.6039,
+    "aqi": 55,
+    "intensity": 0.11,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 55,
+      "pm10": 22,
+      "o3": 9,
+      "no2": 2.3,
+      "so2": 16.1,
+      "co": 1.4
+    }
+  },
+  {
+    "name": "New Mandi, Muzaffarnagar, India",
+    "lat": 29.4723508,
+    "lon": 77.7194031,
+    "aqi": 109,
+    "intensity": 0.218,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 109,
+      "pm10": 57,
+      "o3": 7.5,
+      "no2": 7.5,
+      "so2": 3.9,
+      "co": 7.6
+    }
+  },
+  {
+    "name": "Employment Office, Moradabad, India",
+    "lat": 28.88528,
+    "lon": 78.7388,
+    "aqi": 192,
+    "intensity": 0.384,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 192,
+      "pm10": 31,
+      "o3": 10.7,
+      "no2": 5.7,
+      "so2": 13.3,
+      "co": 5.9
+    }
+  },
+  {
+    "name": "Lumpyngngad, Shillong, India",
+    "lat": 25.5586,
+    "lon": 91.8985,
+    "aqi": 25,
+    "intensity": 0.05,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 25,
+      "pm10": 8,
+      "o3": 5.3,
+      "no2": 0.1,
+      "so2": 2.3,
+      "co": 0.5
+    }
+  },
+  {
+    "name": "Nacharam_TSIIC IALA, Hyderabad, India",
+    "lat": 17.429398,
+    "lon": 78.569354,
+    "aqi": 97,
+    "intensity": 0.194,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 97,
+      "pm10": 60,
+      "o3": 17.2,
+      "no2": 4.8,
+      "so2": 4.2,
+      "co": 6.6
+    }
+  },
+  {
+    "name": "Phase-1 GIDC, Vapi, India",
+    "lat": 20.362421,
+    "lon": 72.918013,
+    "aqi": 88,
+    "intensity": 0.176,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 88,
+      "pm10": 57,
+      "o3": 0.8,
+      "no2": 5,
+      "so2": 15.8
+    }
+  },
+  {
+    "name": "Madan Mohan Malaviya University of Technology, Gorakhpur, India",
+    "lat": 26.730136,
+    "lon": 83.433859,
+    "aqi": 33,
+    "intensity": 0.066,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 33,
+      "pm10": 26,
+      "o3": 5.9,
+      "no2": 4.1,
+      "so2": 15.3,
+      "co": 1
+    }
+  },
+  {
+    "name": "IIPHG Lekawada, Gandhinagar, India",
+    "lat": 23.243639,
+    "lon": 72.68994,
+    "aqi": 93,
+    "intensity": 0.186,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 93,
+      "pm10": 52,
+      "o3": 1.5,
+      "no2": 17.6,
+      "so2": 1.2,
+      "co": 4.3
+    }
+  },
+  {
+    "name": "GVM Corporation, Visakhapatnam, India",
+    "lat": 17.72,
+    "lon": 83.3,
+    "aqi": 94,
+    "intensity": 0.188,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 94,
+      "pm10": 72,
+      "o3": 5.1,
+      "no2": 27.3,
+      "so2": 1.9,
+      "co": 4
+    }
+  },
+  {
+    "name": "More Chowk, Waluj, Aurangabad, India",
+    "lat": 19.8389439,
+    "lon": 75.244448,
+    "aqi": 10,
+    "intensity": 0.02,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm10": 7,
+      "o3": 10,
+      "no2": 6.1,
+      "so2": 7.4,
+      "co": 0.5
+    }
+  },
+  {
+    "name": "Mulund West, Mumbai, India",
+    "lat": 19.175,
+    "lon": 72.9419,
+    "aqi": 72,
+    "intensity": 0.144,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 72,
+      "pm10": 41,
+      "no2": 5.2,
+      "so2": 25.9
+    }
+  },
+  {
+    "name": "T T Nagar, Bhopal, India",
+    "lat": 23.233584,
+    "lon": 77.400574,
+    "aqi": 15,
+    "intensity": 0.03,
+    "timestamp": "2025-07-06T07:00:00+05:30",
+    "pollutants": {
+      "pm25": 13,
+      "pm10": 10,
+      "o3": 15,
+      "no2": 10.5,
+      "so2": 3.2,
+      "co": 3.1
+    }
+  },
+  {
+    "name": "Jawahar Nagar, Puducherry, India",
+    "lat": 11.9309,
+    "lon": 79.8027,
+    "aqi": 58,
+    "intensity": 0.116,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 58,
+      "pm10": 41,
+      "o3": 13.4,
+      "no2": 3.1,
+      "so2": 2.9,
+      "co": 3
+    }
+  },
+  {
+    "name": "Lal Bahadur Shastri Nagar, Kalaburagi, India",
+    "lat": 17.321993,
+    "lon": 76.822628,
+    "aqi": 150,
+    "intensity": 0.3,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 150,
+      "pm10": 78,
+      "o3": 17.5,
+      "no2": 4.6,
+      "so2": 31.5,
+      "co": 6.6
+    }
+  },
+  {
+    "name": "MIT-Daudpur Kothi, Muzaffarpur, India",
+    "lat": 26.1403345,
+    "lon": 85.3650192,
+    "aqi": 5,
+    "intensity": 0.01,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 82,
+      "pm10": 43,
+      "o3": 5.2,
+      "no2": 5.9,
+      "so2": 2.2,
+      "co": 18.7
+    }
+  },
+  {
+    "name": "Ashok Nagar, Udaipur, India",
+    "lat": 24.5886166,
+    "lon": 73.6321397,
+    "aqi": 45,
+    "intensity": 0.09,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 45,
+      "pm10": 25,
+      "o3": 5.8,
+      "no2": 9.7,
+      "so2": 2.2,
+      "co": 8.5
+    }
+  },
+  {
+    "name": "Golden Temple, Amritsar, India",
+    "lat": 31.62,
+    "lon": 74.876512,
+    "aqi": 52,
+    "intensity": 0.104,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 52,
+      "pm10": 19,
+      "o3": 13.5,
+      "no2": 6.9,
+      "so2": 4.3,
+      "co": 3.1
+    }
+  },
+  {
+    "name": "Nagqu Stations, Nagqu (那曲地区那曲监测站)",
+    "lat": 31.4846,
+    "lon": 92.0657,
+    "aqi": 46,
+    "intensity": 0.092,
+    "timestamp": "2025-07-06T13:00:00+08:00",
+    "pollutants": {
+      "pm25": 46,
+      "pm10": 24,
+      "no2": 4.2,
+      "so2": 2.6,
+      "co": 2.8
+    }
+  },
+  {
+    "name": "Chikkaballapur Rural, Chikkaballapur, India",
+    "lat": 13.428828,
+    "lon": 77.731418,
+    "aqi": 30,
+    "intensity": 0.06,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 30,
+      "pm10": 16,
+      "o3": 9,
+      "no2": 4.6,
+      "so2": 5.8,
+      "co": 2.1
+    }
+  },
+  {
+    "name": "Police Line, Saharsa, India",
+    "lat": 25.892357,
+    "lon": 86.590325,
+    "aqi": 112,
+    "intensity": 0.224,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 112,
+      "pm10": 34,
+      "o3": 9.5,
+      "no2": 2.6,
+      "so2": 4.1,
+      "co": 9.4
+    }
+  },
+  {
+    "name": "Darshan Nagar, Chhapra, India",
+    "lat": 25.7808257,
+    "lon": 84.7446768,
+    "aqi": 8,
+    "intensity": 0.016,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 30,
+      "pm10": 14,
+      "o3": 8.3,
+      "no2": 43.4,
+      "so2": 3,
+      "co": 0.7
+    }
+  },
+  {
+    "name": "Shankapark, Nepal",
+    "lat": 27.732825,
+    "lon": 85.342826,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:25:12.317Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Phase-4 GIDC, Vatva, India",
+    "lat": 22.969611,
+    "lon": 72.6435,
+    "aqi": 84,
+    "intensity": 0.168,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 84,
+      "pm10": 52,
+      "o3": 5,
+      "no2": 2.2,
+      "so2": 11.2,
+      "co": 3.7
+    }
+  },
+  {
+    "name": "Anand Vihar, Hapur, India",
+    "lat": 28.725645,
+    "lon": 77.749675,
+    "aqi": 115,
+    "intensity": 0.23,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 115,
+      "pm10": 49,
+      "o3": 8.5,
+      "no2": 33.2,
+      "so2": 12.7,
+      "co": 8.4
+    }
+  },
+  {
+    "name": "Railway Colony, Guwahati, India",
+    "lat": 26.181742,
+    "lon": 91.78063,
+    "aqi": 20,
+    "intensity": 0.04,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 20,
+      "pm10": 10,
+      "o3": 21.9,
+      "no2": 1.3,
+      "so2": 10.4,
+      "co": 5.9
+    }
+  },
+  {
+    "name": "HIMUDA Complex Phase-1, Baddi, India",
+    "lat": 30.943887,
+    "lon": 76.801991,
+    "aqi": 93,
+    "intensity": 0.186,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 93,
+      "pm10": 76,
+      "o3": 7.2,
+      "no2": 12.5,
+      "so2": 15.6,
+      "co": 9.2
+    }
+  },
+  {
+    "name": "Talcher Coalfields, Talcher, India",
+    "lat": 20.9360711,
+    "lon": 85.1707021,
+    "aqi": 18,
+    "intensity": 0.036,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 1,
+      "pm10": 6,
+      "o3": 7,
+      "no2": 21,
+      "so2": 17.8,
+      "co": 0.1
+    }
+  },
+  {
+    "name": "Forest Rest House, Manguraha, India",
+    "lat": 25.357288,
+    "lon": 84.107844,
+    "aqi": 76,
+    "intensity": 0.152,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 46,
+      "pm10": 76,
+      "o3": 7.5,
+      "no2": 1.3,
+      "so2": 2.7,
+      "co": 7.6
+    }
+  },
+  {
+    "name": "Islamabad US Embassy, Pakistan",
+    "lat": 33.7235,
+    "lon": 73.11822,
+    "aqi": 30,
+    "intensity": 0.06,
+    "timestamp": "2025-07-06T08:00:00+05:00",
+    "pollutants": {
+      "pm25": 30
+    }
+  },
+  {
+    "name": "Girls College, Sivasagar, India",
+    "lat": 26.987634,
+    "lon": 94.636574,
+    "aqi": 42,
+    "intensity": 0.084,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 42,
+      "pm10": 19,
+      "o3": 1.6,
+      "no2": 4.5,
+      "so2": 3.9,
+      "co": 1.9
+    }
+  },
+  {
+    "name": "Kamalnath Nagar, Bettiah, India",
+    "lat": 26.80365,
+    "lon": 84.51954,
+    "aqi": 10,
+    "intensity": 0.02,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 30,
+      "pm10": 27,
+      "o3": 9.5,
+      "no2": 2.9,
+      "so2": 1.6,
+      "co": 8.5
+    }
+  },
+  {
+    "name": "GBS, Pkr, Nepal",
+    "lat": 28.25838,
+    "lon": 83.968964,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:25:23.862Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Muzaffarpur Collectorate, Muzaffarpur, India",
+    "lat": 26.1209,
+    "lon": 85.3647,
+    "aqi": 87,
+    "intensity": 0.174,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 87,
+      "o3": 6,
+      "no2": 3.6,
+      "so2": 3.1,
+      "co": 4.5
+    }
+  },
+  {
+    "name": "Perungudi, Chennai, Chennai, India",
+    "lat": 12.9533,
+    "lon": 80.2357,
+    "aqi": 93,
+    "intensity": 0.186,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 72,
+      "pm10": 93,
+      "o3": 6.9,
+      "no2": 1.7,
+      "so2": 2.5,
+      "co": 4.3
+    }
+  },
+  {
+    "name": "MIDC Khutala, Chandrapur, India",
+    "lat": 19.9775302,
+    "lon": 79.2337086,
+    "aqi": 57,
+    "intensity": 0.114,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 57,
+      "pm10": 25,
+      "o3": 8.5,
+      "no2": 2.6,
+      "so2": 1.6,
+      "co": 9.2
+    }
+  },
+  {
+    "name": "Bidhannagar, Kolkata, India",
+    "lat": 22.58157048,
+    "lon": 88.41002457,
+    "aqi": 65,
+    "intensity": 0.13,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 65,
+      "pm10": 33,
+      "o3": 10.1,
+      "no2": 5.6,
+      "so2": 2.9,
+      "co": 4.2
+    }
+  },
+  {
+    "name": "Gole Bazar, Katni, India",
+    "lat": 23.50016,
+    "lon": 80.23284,
+    "aqi": 34,
+    "intensity": 0.068,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 34,
+      "pm10": 18,
+      "o3": 9.8,
+      "no2": 8.3,
+      "so2": 9.2,
+      "co": 5.3
+    }
+  },
+  {
+    "name": "Nepalgunj, Nepal",
+    "lat": 28.05275,
+    "lon": 81.6222,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:25:31.090Z",
+    "pollutants": {}
+  },
+  {
+    "name": "SAC ISRO Bopal, Ahmedabad, India",
+    "lat": 23.041137,
+    "lon": 72.456691,
+    "aqi": 117,
+    "intensity": 0.234,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 117,
+      "pm10": 59,
+      "o3": 3.9,
+      "no2": 2,
+      "so2": 0.5,
+      "co": 25.4
+    }
+  },
+  {
+    "name": "Sikulpuikawn, Aizawl, India",
+    "lat": 23.7176342,
+    "lon": 92.7192841,
+    "aqi": 5,
+    "intensity": 0.01,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 4,
+      "pm10": 5,
+      "o3": 1.1,
+      "no2": 0.1,
+      "so2": 3.1,
+      "co": 0.6
+    }
+  },
+  {
+    "name": "Panchal Nagar, Gadag, India",
+    "lat": 15.411456,
+    "lon": 75.638133,
+    "aqi": 51,
+    "intensity": 0.102,
+    "timestamp": "2025-07-06T08:00:00+05:30",
+    "pollutants": {
+      "pm25": 51,
+      "pm10": 3,
+      "o3": 3.8,
+      "no2": 2.2,
+      "so2": 5.8,
+      "co": 20.1
+    }
+  },
+  {
+    "name": "Zero Point GICI, Gangtok, India",
+    "lat": 27.33853,
+    "lon": 88.614099,
+    "aqi": 49,
+    "intensity": 0.098,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 49,
+      "pm10": 8,
+      "o3": 7.7,
+      "no2": 0.1,
+      "so2": 0.3,
+      "co": 0.2
+    }
+  },
+  {
+    "name": "Buddha Colony, Muzaffarpur, India",
+    "lat": 26.11442,
+    "lon": 85.39813,
+    "aqi": 76,
+    "intensity": 0.152,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 76,
+      "pm10": 37,
+      "o3": 12.4,
+      "no2": 2.3,
+      "so2": 1.2,
+      "co": 4.1
+    }
+  },
+  {
+    "name": "Kadri, Mangalore, India",
+    "lat": 12.88925,
+    "lon": 74.853,
+    "aqi": 108,
+    "intensity": 0.216,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 108,
+      "pm10": 56,
+      "o3": 5.7,
+      "no2": 3.4,
+      "so2": 2.1
+    }
+  },
+  {
+    "name": "Mangala, Bilaspur, India",
+    "lat": 22.08815,
+    "lon": 82.13737,
+    "aqi": 19,
+    "intensity": 0.038,
+    "timestamp": "2025-07-06T05:00:00+05:30",
+    "pollutants": {
+      "pm25": 19,
+      "pm10": 10,
+      "no2": 4,
+      "so2": 3.3,
+      "co": 6.8
+    }
+  },
+  {
+    "name": "Urban, Chamarajanagar, India",
+    "lat": 11.55358,
+    "lon": 76.55521,
+    "aqi": 63,
+    "intensity": 0.126,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 63,
+      "pm10": 41,
+      "o3": 10.5,
+      "no2": 10.7,
+      "so2": 1.6,
+      "co": 4.1
+    }
+  },
+  {
+    "name": "Belur Math, Howrah, India",
+    "lat": 22.629801,
+    "lon": 88.352017,
+    "aqi": 43,
+    "intensity": 0.086,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 30,
+      "pm10": 43,
+      "o3": 3.2,
+      "no2": 10.5,
+      "so2": 4,
+      "co": 6.7
+    }
+  },
+  {
+    "name": "Dhangadhi, Nepal",
+    "lat": 28.704133,
+    "lon": 80.5945,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:25:42.611Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Shasthri Nagar, Ratlam, India",
+    "lat": 23.331731,
+    "lon": 75.045981,
+    "aqi": 51,
+    "intensity": 0.102,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 42,
+      "pm10": 51,
+      "no2": 12.4,
+      "so2": 10.7
+    }
+  },
+  {
+    "name": "Jadavpur, Kolkata, India",
+    "lat": 22.49929,
+    "lon": 88.36917,
+    "aqi": 85,
+    "intensity": 0.17,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 85,
+      "pm10": 41,
+      "o3": 7.2,
+      "no2": 14.2,
+      "so2": 1.3,
+      "co": 4.1
+    }
+  },
+  {
+    "name": "Vinoba Nagara, Shivamogga, India",
+    "lat": 13.94,
+    "lon": 75.555917,
+    "aqi": 53,
+    "intensity": 0.106,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 53,
+      "pm10": 34,
+      "o3": 10.6,
+      "no2": 8.3,
+      "so2": 2.1,
+      "co": 3.5
+    }
+  },
+  {
+    "name": "Vasai West, Mumbai, India",
+    "lat": 19.3832,
+    "lon": 72.8204,
+    "aqi": 29,
+    "intensity": 0.058,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 20,
+      "pm10": 29,
+      "o3": 14,
+      "no2": 5.7,
+      "so2": 15.3,
+      "co": 8
+    }
+  },
+  {
+    "name": "Mayaganj, Bhagalpur, India",
+    "lat": 25.265194,
+    "lon": 87.012947,
+    "aqi": 60,
+    "intensity": 0.12,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 60,
+      "pm10": 28,
+      "o3": 3.8,
+      "no2": 3.7,
+      "so2": 17.6,
+      "co": 6.3
+    }
+  },
+  {
+    "name": "Deen Dayal Nagar, Sagar, India",
+    "lat": 23.8640158,
+    "lon": 78.80289321,
+    "aqi": 47,
+    "intensity": 0.094,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 47,
+      "pm10": 26,
+      "no2": 1.5,
+      "so2": 3.4,
+      "co": 13.9
+    }
+  },
+  {
+    "name": "Indira Colony Vistar, Pali, India",
+    "lat": 25.771061,
+    "lon": 73.340227,
+    "aqi": 94,
+    "intensity": 0.188,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 94,
+      "pm10": 48,
+      "o3": 11.8,
+      "no2": 10.4,
+      "so2": 5.2,
+      "co": 6.8
+    }
+  },
+  {
+    "name": "Kumaran College, Tirupur, India",
+    "lat": 11.0973603,
+    "lon": 77.3228673,
+    "aqi": 17,
+    "intensity": 0.034,
+    "timestamp": "2025-07-06T05:00:00+05:30",
+    "pollutants": {
+      "pm25": 17,
+      "pm10": 16,
+      "o3": 1.4,
+      "no2": 0.7,
+      "so2": 1.1,
+      "co": 2.3
+    }
+  },
+  {
+    "name": "Vidayagiri, Bagalkot, India",
+    "lat": 16.172806,
+    "lon": 75.659694,
+    "aqi": 68,
+    "intensity": 0.136,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 68,
+      "pm10": 39,
+      "o3": 6.6,
+      "no2": 3.4,
+      "so2": 2.8,
+      "co": 6
+    }
+  },
+  {
+    "name": "D M Colony, Bihar Sharif, India",
+    "lat": 25.204762,
+    "lon": 85.51496,
+    "aqi": 56,
+    "intensity": 0.112,
+    "timestamp": "2025-07-06T09:00:00+05:30",
+    "pollutants": {
+      "pm25": 50,
+      "pm10": 56,
+      "o3": 10.6,
+      "no2": 3.5,
+      "so2": 3.9,
+      "co": 0.6
+    }
+  },
+  {
+    "name": "Birendra School, Bhaktapur, Nepal",
+    "lat": 27.673762,
+    "lon": 85.417528,
+    "intensity": null,
+    "timestamp": "2025-07-06T05:25:55.309Z",
+    "pollutants": {}
+  },
+  {
+    "name": "Marhatal, Jabalpur, India",
+    "lat": 23.168606,
+    "lon": 79.932247,
+    "aqi": 34,
+    "intensity": 0.068,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 34,
+      "pm10": 12,
+      "o3": 5.9,
+      "no2": 9.1,
+      "so2": 6.6,
+      "co": 3.2
+    }
+  },
+  {
+    "name": "City Railway Station, Bangalore, India",
+    "lat": 12.9756843,
+    "lon": 77.5660749,
+    "aqi": 70,
+    "intensity": 0.14,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm10": 70,
+      "no2": 18.5,
+      "so2": 2.7,
+      "co": 11.2
+    }
+  },
+  {
+    "name": "Anand Kala Kshetram, Rajamahendravaram, India",
+    "lat": 16.9872867,
+    "lon": 81.7363176,
+    "aqi": 48,
+    "intensity": 0.096,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 48,
+      "pm10": 35,
+      "o3": 2.6,
+      "no2": 3.9,
+      "so2": 2.8,
+      "co": 2.6
+    }
+  },
+  {
+    "name": "Opp GPO Civil Lines, Nagpur, India",
+    "lat": 21.152875,
+    "lon": 79.0517531,
+    "aqi": 42,
+    "intensity": 0.084,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 42,
+      "pm10": 19,
+      "o3": 1,
+      "no2": 0.9,
+      "so2": 3.3,
+      "co": 2.9
+    }
+  },
+  {
+    "name": "DM Office_Kasipur, Samastipur, India",
+    "lat": 25.859655,
+    "lon": 85.77944,
+    "aqi": 73,
+    "intensity": 0.146,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 73,
+      "pm10": 42,
+      "o3": 4.8,
+      "no2": 0.7,
+      "so2": 11.5,
+      "co": 4.4
+    }
+  },
+  {
+    "name": "District radiation station, Lhasa (拉萨区辐射站)",
+    "lat": 29.6588,
+    "lon": 90.9798,
+    "aqi": 50,
+    "intensity": 0.1,
+    "timestamp": "2025-07-06T13:00:00+08:00",
+    "pollutants": {
+      "pm25": 50,
+      "pm10": 19,
+      "no2": 1.9,
+      "so2": 3.1,
+      "co": 1.9
+    }
+  },
+  {
+    "name": "GM Office, Brajrajnagar, India",
+    "lat": 21.8004996,
+    "lon": 83.8396977,
+    "aqi": 31,
+    "intensity": 0.062,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 31,
+      "pm10": 16,
+      "o3": 2.9,
+      "no2": 4.9,
+      "so2": 6.8,
+      "co": 16.2
+    }
+  },
+  {
+    "name": "Civic Center, Bhilai, India",
+    "lat": 21.185571,
+    "lon": 81.343175,
+    "aqi": 37,
+    "intensity": 0.074,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 37,
+      "pm10": 6,
+      "o3": 4.2,
+      "no2": 4.2,
+      "so2": 3.6,
+      "co": 8.9
+    }
+  },
+  {
+    "name": "Motilal Nehru NIT, Prayagraj, India",
+    "lat": 25.494,
+    "lon": 81.863,
+    "aqi": 60,
+    "intensity": 0.12,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 60,
+      "pm10": 20,
+      "o3": 12.3,
+      "no2": 4.3,
+      "so2": 9.3,
+      "co": 1.7
+    }
+  },
+  {
+    "name": "Civil Lines, Bareilly, India",
+    "lat": 28.359581,
+    "lon": 79.414455,
+    "aqi": 38,
+    "intensity": 0.076,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 4,
+      "pm10": 5,
+      "o3": 8.9,
+      "no2": 0.9,
+      "so2": 38.3,
+      "co": 0.6
+    }
+  },
+  {
+    "name": "Sector-2 Industrial Area, Pithampur, India",
+    "lat": 22.624758,
+    "lon": 75.675238,
+    "aqi": 55,
+    "intensity": 0.11,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 55,
+      "pm10": 27,
+      "o3": 12.4,
+      "no2": 5.6,
+      "so2": 5.7,
+      "co": 4
+    }
+  },
+  {
+    "name": "Bakuo street, Lhasa (拉萨八廓街)",
+    "lat": 29.6514,
+    "lon": 91.1319,
+    "aqi": 34,
+    "intensity": 0.068,
+    "timestamp": "2025-07-06T13:00:00+08:00",
+    "pollutants": {
+      "pm25": 34,
+      "pm10": 18,
+      "no2": 1.9,
+      "so2": 2.1,
+      "co": 1.9
+    }
+  },
+  {
+    "name": "Bombay Castel, Ooty, India",
+    "lat": 11.4068288,
+    "lon": 76.7138973,
+    "aqi": 47,
+    "intensity": 0.094,
+    "timestamp": "2025-07-06T09:00:00+05:30",
+    "pollutants": {
+      "pm25": 47,
+      "pm10": 17,
+      "o3": 2.1,
+      "no2": 1,
+      "so2": 5.8,
+      "co": 26.8
+    }
+  },
+  {
+    "name": "IITH Kandi, Hyderabad, India",
+    "lat": 17.585705,
+    "lon": 78.126199,
+    "aqi": 97,
+    "intensity": 0.194,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 97,
+      "pm10": 64,
+      "o3": 11.3,
+      "no2": 5.9,
+      "so2": 4.3,
+      "co": 3.8
+    }
+  },
+  {
+    "name": "Dangi Tola, Rajgir, India",
+    "lat": 25.0328,
+    "lon": 85.41948,
+    "aqi": 78,
+    "intensity": 0.156,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 78,
+      "pm10": 52,
+      "o3": 13,
+      "no2": 3.3,
+      "co": 5.6
+    }
+  },
+  {
+    "name": "Ward-32 Bapupara, Siliguri, India",
+    "lat": 26.6883049,
+    "lon": 88.412668,
+    "aqi": 69,
+    "intensity": 0.138,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 69,
+      "pm10": 30,
+      "o3": 10.6,
+      "no2": 8.5,
+      "so2": 5,
+      "co": 6.8
+    }
+  },
+  {
+    "name": "Sector-1, Noida, India",
+    "lat": 28.5898,
+    "lon": 77.3101,
+    "aqi": 137,
+    "intensity": 0.274,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 137,
+      "pm10": 59,
+      "o3": 4.2,
+      "no2": 22.9,
+      "so2": 3.6,
+      "co": 6.8
+    }
+  },
+  {
+    "name": "Meelavittan, Thoothukudi, India",
+    "lat": 8.816428,
+    "lon": 78.099039,
+    "aqi": 86,
+    "intensity": 0.172,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm10": 86,
+      "o3": 9,
+      "no2": 1.8,
+      "so2": 4.3,
+      "co": 12.2
+    }
+  },
+  {
+    "name": "Jhunsi, Prayagraj, India",
+    "lat": 25.425602,
+    "lon": 81.917152,
+    "aqi": 44,
+    "intensity": 0.088,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 44,
+      "pm10": 26,
+      "o3": 6,
+      "no2": 2.1,
+      "so2": 12.5,
+      "co": 0.7
+    }
+  },
+  {
+    "name": "Transport Nagar, Moradabad, India",
+    "lat": 28.802625,
+    "lon": 78.753728,
+    "aqi": 84,
+    "intensity": 0.168,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 84,
+      "pm10": 52,
+      "o3": 16.2,
+      "no2": 9.9,
+      "so2": 14,
+      "co": 11.8
+    }
+  },
+  {
+    "name": "Loni, Ghaziabad, India",
+    "lat": 28.757294,
+    "lon": 77.278792,
+    "aqi": 160,
+    "intensity": 0.32,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 160,
+      "pm10": 78,
+      "o3": 5.4,
+      "no2": 9.6,
+      "so2": 7.4,
+      "co": 4.8
+    }
+  },
+  {
+    "name": "Manipur University, Imphal, India",
+    "lat": 24.7524239,
+    "lon": 93.9286218,
+    "aqi": 55,
+    "intensity": 0.11,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "o3": 1.8,
+      "no2": 2.6,
+      "so2": 54.8,
+      "co": 1
+    }
+  },
+  {
+    "name": "Anthoni Pillai Nagar, Gummidipoondi, India",
+    "lat": 13.4127,
+    "lon": 80.1081,
+    "aqi": 74,
+    "intensity": 0.148,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 74,
+      "pm10": 51,
+      "no2": 0.9,
+      "so2": 9.4
+    }
+  },
+  {
+    "name": "Kharahiya Basti, Araria, India",
+    "lat": 26.146529,
+    "lon": 87.454184,
+    "aqi": 99,
+    "intensity": 0.198,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 99,
+      "pm10": 52,
+      "o3": 4.1,
+      "no2": 2.7,
+      "so2": 6.2,
+      "co": 4.3
+    }
+  },
+  {
+    "name": "Rajbagh, Srinagar, India",
+    "lat": 34.066206,
+    "lon": 74.81982,
+    "aqi": 82,
+    "intensity": 0.164,
+    "timestamp": "2025-07-06T05:00:00+05:30",
+    "pollutants": {
+      "pm25": 82,
+      "pm10": 51,
+      "o3": 0.1,
+      "no2": 7.8,
+      "so2": 1.4,
+      "co": 2.5
+    }
+  },
+  {
+    "name": "Crescent University, Chengalpattu, India",
+    "lat": 12.8777316,
+    "lon": 80.0834807,
+    "aqi": 74,
+    "intensity": 0.148,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 74,
+      "pm10": 46,
+      "o3": 2.9,
+      "no2": 5,
+      "so2": 6.4,
+      "co": 3.7
+    }
+  },
+  {
+    "name": "Collectorate, Gaya, India",
+    "lat": 24.7955,
+    "lon": 84.9994,
+    "aqi": 124,
+    "intensity": 0.248,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 124,
+      "o3": 8.5,
+      "no2": 0.4,
+      "so2": 4.3,
+      "co": 3.3
+    }
+  },
+  {
+    "name": "Samanpura, Patna, India",
+    "lat": 25.596727,
+    "lon": 85.085624,
+    "aqi": 86,
+    "intensity": 0.172,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 86,
+      "pm10": 45,
+      "o3": 17.9,
+      "no2": 16.1,
+      "so2": 1.3,
+      "co": 1.2
+    }
+  },
+  {
+    "name": "Shrivastav Colony, Damoh, India",
+    "lat": 23.81748678,
+    "lon": 79.446246,
+    "aqi": 24,
+    "intensity": 0.048,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 5,
+      "pm10": 24,
+      "so2": 6.1,
+      "co": 4.3
+    }
+  },
+  {
+    "name": "Chitragupta Nagar, Siwan, India",
+    "lat": 26.2271665,
+    "lon": 84.3570427,
+    "aqi": 13,
+    "intensity": 0.026,
+    "timestamp": "2025-07-06T09:00:00+05:30",
+    "pollutants": {
+      "pm25": 13,
+      "pm10": 6,
+      "o3": 3.6,
+      "no2": 0.7,
+      "so2": 2.1,
+      "co": 13
+    }
+  },
+  {
+    "name": "Kalal Majra, Khanna, India",
+    "lat": 30.736056,
+    "lon": 76.209694,
+    "aqi": 103,
+    "intensity": 0.206,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 103,
+      "pm10": 54,
+      "o3": 16.2,
+      "no2": 10.4,
+      "so2": 2.1,
+      "co": 4.5
+    }
+  },
+  {
+    "name": "SIPCOT Phase-1, Hosur, India",
+    "lat": 12.746998,
+    "lon": 77.813811,
+    "aqi": 60,
+    "intensity": 0.12,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 60,
+      "pm10": 28,
+      "o3": 5.6,
+      "no2": 0.6,
+      "so2": 17.4,
+      "co": 3.8
+    }
+  },
+  {
+    "name": "Stuart Hill, Madikeri, India",
+    "lat": 12.415911,
+    "lon": 75.73505,
+    "aqi": 44,
+    "intensity": 0.088,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 44,
+      "pm10": 17,
+      "o3": 2,
+      "no2": 0.9,
+      "so2": 2.8,
+      "co": 1.7
+    }
+  },
+  {
+    "name": "Shrinath Puram, Kota, India",
+    "lat": 25.14389,
+    "lon": 75.821256,
+    "aqi": 22,
+    "intensity": 0.044,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 22,
+      "pm10": 12,
+      "o3": 2.6,
+      "no2": 1.2,
+      "so2": 0.9,
+      "co": 2.2
+    }
+  },
+  {
+    "name": "Civil Lines, Ajmer, India",
+    "lat": 26.470859,
+    "lon": 74.646594,
+    "aqi": 68,
+    "intensity": 0.136,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 68,
+      "pm10": 42,
+      "o3": 4.5,
+      "no2": 13.3,
+      "so2": 5.8,
+      "co": 7
+    }
+  },
+  {
+    "name": "Sector 22, Chandigarh, India",
+    "lat": 30.735567,
+    "lon": 76.775714,
+    "aqi": 77,
+    "intensity": 0.154,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 77,
+      "pm10": 44,
+      "o3": 8.5,
+      "no2": 9.5,
+      "so2": 4,
+      "co": 10.4
+    }
+  },
+  {
+    "name": "Bardowali, Agartala, India",
+    "lat": 23.8175497,
+    "lon": 91.2726974,
+    "aqi": 51,
+    "intensity": 0.102,
+    "timestamp": "2025-07-06T10:00:00+05:30",
+    "pollutants": {
+      "pm25": 51,
+      "pm10": 9,
+      "o3": 7.1,
+      "no2": 1.5,
+      "so2": 10.2,
+      "co": 0.3
+    }
+  }
+]

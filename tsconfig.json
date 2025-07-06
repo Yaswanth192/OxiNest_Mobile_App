@@ -1,0 +1,18 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-native",                // ✅ Required for JSX to compile properly
+    "baseUrl": ".",                       // ✅ Enables root path references
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "types": ["expo-camera"]              // ✅ Optional, helps with Camera type inference
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
+}
